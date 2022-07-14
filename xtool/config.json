@@ -1,1 +1,16 @@
 
+
+{
+  "result": 0,
+  "configs": {
+    "operationInfo": "{\"status\":0}",
+    "black_list": "[\"explorer.exe\",\"steam.exe\",\"battle.net.exe\",\"galaxyclient.exe\",\"skype.exe\",\"uplay.exe\",\"origin.exe\",\"devenv.exe\",\"taskmgr.exe\",\"chrome.exe\",\"discord.exe\",\"firefox.exe\",\"systemsettings.exe\",\"applicationframehost.exe\",\"cmd.exe\",\"shellexperiencehost.exe\",\"winstore.app.exe\",\"searchui.exe\",\"lockapp.exe\",\"windowsinternal.composableshell.experiences.textinput.inputapp.exe\",\"YY.exe\",\"MosTool.exe\",\"wmplayer.exe\",\"Share.exe\",\"notepad++.exe\",\"code.exe\",\"WeChat.exe\",\"QQMusic.exe\",\"AQ.exe\",\"YoudaoNote.exe\",\"WXWork.exe\",\"HxCalendarAppImm.exe\",\"MicrosoftEdgeCP.exe\",\"MicrosoftEdge.exe\",\"7zFM.exe\",\"logview.exe\"]",
+    "version_number": "2.0.0",
+    "update_window_Message": "[{\"version\":\"2.0.0\",\"update_window\":true,\"update_window_Message\":\"XTool V2\"}]",
+    "crossfire.exe": "{\"1\":[\"21931966\",\"2753290478\"],\"2\":[\"66598168\",\"2604099526\"],\"3\":[\"62812228\",\"2753977640\"],\"4\":[\"27378587\",\"2749871012\"]}",
+    "whiteList": "{\"DNF.exe\":\"DNF\",\"Wow.exe\":\"WOW\",\"JX3ClientX64.exe\":\"剑侠3\",\"dwrg.exe\":\"第五人格\",\"GacRunnerNG.exe\":\"逆水寒\",\"Warframe.x64.exe\":\"Warframe\",\"hl2.exe\":\"Team Fortress 2\",\"mhmain.exe\":\"梦幻西游\",\"FortniteClient-Win64-Shipping.exe\":\"Fortnite\",\"DreamEnding.exe\":\"DreamEnding\",\"War3.exe\":\"Warcraft III\",\"Hearthstone.exe\":\"炉石传说\",\"underlords.exe\":\"刀塔霸业\",\"proven_ground_client.exe\":\"战意\",\"TGame.exe\":\"逆战\",\"GameApp.exe\":\"QQ飞车\",\"codomp_client_shipretail.exe\":\"使命召唤OL\",\"gta5.exe\":\"侠盗飞车5\",\"nba2k20.exe\":\"NBA 2K20\",\"rainbowsix.exe\":\"彩虹六号\",\"wuxia_client_x64.exe\":\"天涯明月刀\",\"arma3_x64.exe\":\"武装突袭3\",\"darksoulsiii.exe\":\"黑暗之魂3\",\"gujianol.exe\":\"古剑奇谭\",\"monsterhunterworld.exe\":\"怪物猎人\",\"onmyoji.exe\":\"阴阳师\",\"saintsrowthethird.exe\":\"黑道圣徒3\",\"sc2_x64.exe\":\"星际争霸2\",\"shootergame.exe\":\"方舟：生存计划\",\"theforest.exe\":\"森林\",\"theisle-win64-shipping.exe\":\"The Isle\",\"tps.exe\":\"枪神纪\",\"NMS.exe\":\"无人深空\",\"Stardew Valley.exe\":\"星露谷物语\",\"fifa4zf.exe\":\"FIFA ONLINE4\",\"MapleStory.exe\":\"MapleStory\",\"europa_client.exe\":\"europa_client\",\"mb_warband.exe\":\"mb_warband\",\"worldoftanks.exe\":\"worldoftanks\",\"left4dead2.exe\":\"left4dead2\",\"bf1.exe\":\"bf1\",\"dragonnest.exe\":\"dragonnest\",\"javaw.exe\":\"javaw\",\"portal 2.exe\":\"portal 2\",\"r5apex.exe\":\"apex\",\"TS4_X64.exe:\":\"模拟人生\",\"Paradox Launcher.exe\":\"都市天际线\",\"dnplayer.exe\":\"雷电模拟器\",\"AndroidEmulator.exe\":\"腾讯模拟器\"}",
+    "update_window": "0"
+  },
+  "deleteds": {},
+  "extendInfo": {}
+}
